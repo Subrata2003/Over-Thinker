@@ -1,4 +1,6 @@
 ![MasterHead](https://github.com/Over-Thinker/Over-Thinker/blob/main/subi.cpp.jpg)
+
+
 <h1 align="center">Hi 👋, I'm Subrata Bhuin</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -15,6 +17,8 @@
 
 - ⚡ Fun fact **Actually Coding is Funny XD**
 
+### Glimpses of Holopin Badge got after contributing in Hactoberfest:~
+[![@subrata2003's Holopin board](https://holopin.me/subrata2003)](https://holopin.io/@subrata2003)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@subratabhuin2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@subratabhuin2" height="30" width="40" /></a>
