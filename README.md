@@ -35,4 +35,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=over-thinker&show_icons=true&locale=en" alt="over-thinker" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=over-thinker&" alt="over-thinker" /></p>
+### Statistics:
+![streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Over-Thinker)
+![tropht stats](https://github-profile-trophy.vercel.app/?username=Over-Thinker)
