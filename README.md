@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **subratabhuin6@gmail.com**
 
-- ⚡ Fun fact **Actually Coding is Funny XD**
+- ⚡ Fun fact **Sometimes all I need is Alt+F4 :)**
 
 ### Glimpses of Holopin Badge got after contributing in Hactoberfest:~
 [![@subrata2003's Holopin board](https://holopin.me/subrata2003)](https://holopin.io/@subrata2003)
